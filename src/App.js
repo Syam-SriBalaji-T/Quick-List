@@ -73,7 +73,7 @@ function App(){
 
   return (
     <div className="App">
-      <Header title="Quick List"/>
+      <Header title="Snap List"/>
       <SearchItem 
         search={search}
         setSearch={setSearch}
